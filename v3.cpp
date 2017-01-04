@@ -125,7 +125,6 @@ main()
 		
 		goto start2;
 		
-		// cout1 - cout6, jer ce svih 6 metoda imati verovatno blago drugaciji output, ili da vodim sve na kraj, cim nadjem jedno resenje za kombinaciju 000-720
 		cout1: 
 			cout<<i00<<" | "<<i0<<" | "<<a<<" "<<b<<" "<<c<<" "<<d<<" "<<e<<" "<<f<<" | ";
 			prevod(i);
@@ -134,6 +133,7 @@ main()
 			prevod(i4); 
 			prevod(i5);
 			cout<<endl;
+		
 		//--------------------------------------------------------------------------	
 		
 		start2:
